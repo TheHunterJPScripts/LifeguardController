@@ -6144,7 +6144,7 @@ MonoBehaviour:
   players: []
   enemies: []
   time: 0
-  fase: 2
+  fase: 0
   start: 0
   death: 0
   nextScene: 2
@@ -7735,7 +7735,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 12722500}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.30993274
+  m_Size: 0.3099327
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

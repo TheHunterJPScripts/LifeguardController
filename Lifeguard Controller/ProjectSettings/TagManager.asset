@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Water
+  - Person
+  - Infirmary
   layers:
   - Default
   - TransparentFX
@@ -14,11 +17,11 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Terrain
+  - Detection
+  - Target
+  - Tower
   - 
   - 
   - 
